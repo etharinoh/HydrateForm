@@ -1,0 +1,15 @@
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\bin\Debug\netcoreapp3.1\HydrateForm.exe
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\bin\Debug\netcoreapp3.1\HydrateForm.deps.json
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\bin\Debug\netcoreapp3.1\HydrateForm.runtimeconfig.json
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\bin\Debug\netcoreapp3.1\HydrateForm.runtimeconfig.dev.json
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\bin\Debug\netcoreapp3.1\HydrateForm.dll
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\bin\Debug\netcoreapp3.1\HydrateForm.pdb
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.csprojAssemblyReference.cache
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.Form1.resources
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.csproj.GenerateResource.cache
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.AssemblyInfoInputs.cache
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.AssemblyInfo.cs
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.csproj.CoreCompileInputs.cache
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.dll
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.pdb
+C:\Users\Ethar\Documents\GitHub\HydrateForm\HydrateForm\HydrateForm\obj\Debug\netcoreapp3.1\HydrateForm.genruntimeconfig.cache
